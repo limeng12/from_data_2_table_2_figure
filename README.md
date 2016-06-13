@@ -24,4 +24,9 @@ scarcity of data 数据的缺陷
 
 paucity of computation power 计算能力的缺乏
 
+pionnered 先驱
+
+
+
+
 
