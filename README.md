@@ -20,8 +20,8 @@ unraveling  阐明
 
 data dluge  数据洪流
 
-scarcity  疤痕
+scarcity of data 数据的缺陷
 
-paucity 缺乏
+paucity of computation power 计算能力的缺乏
 
 
