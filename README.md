@@ -10,3 +10,12 @@ striking  令人惊讶的
 
 advent  到来
 
+massive 大量的
+
+seperate endeavor 两个不同的方向
+
+profoundly  意义深远的
+
+unraveling  阐明
+
+
