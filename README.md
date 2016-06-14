@@ -48,5 +48,5 @@ pave way 为。。。铺平道路
 
 de novo 从头
 
-
+entail  描述
 
