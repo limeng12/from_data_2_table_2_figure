@@ -50,3 +50,4 @@ de novo 从头
 
 entail  描述
 
+global positioning principle  全局定位规则
