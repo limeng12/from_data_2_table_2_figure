@@ -53,3 +53,5 @@ entail  描述
 global positioning principle  全局定位规则
 
 showed  indicated demonstrated  表明
+
+paramount critical  important至关重要的
